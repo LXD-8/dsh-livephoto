@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Live Photo">
+  <rect x="4" y="12" width="56" height="42" rx="9" fill="#1d2b3a"/>
+  <rect x="10" y="18" width="44" height="30" rx="5" fill="#3f6f9e"/>
+  <circle cx="24" cy="33" r="8" fill="#f2f6fa"/>
+  <circle cx="24" cy="33" r="4" fill="#3f6f9e"/>
+  <path d="M38 26c4 3 6.5 6.5 6.5 7s-2.5 4-6.5 7" fill="none" stroke="#ffd166" stroke-width="3" stroke-linecap="round"/>
+  <path d="M46 22c3 3 5 7 5 11s-2 8-5 11" fill="none" stroke="#ffd166" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+</svg>

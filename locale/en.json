@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Xiaohongshu download",
+    "description": "Paste a Xiaohongshu note link and download every image in it. Live Photo images become real Apple Live Photos (a JPEG + MOV pair with the still-image-time track), verified and importable into Photos so iCloud syncs them to an iPhone; other images stay as-is and videos as MP4."
+  }
+}

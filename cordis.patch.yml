@@ -1,0 +1,5 @@
+# Live Photo bundle: one Host row that registers the `xiaohongshu` and `livephoto`
+# tools plus the `/xhs/api/*` routes, and the Web panel declared in package.json.
+- insert:
+    - id: dsh-livephoto
+      name: 'dsh-livephoto'
