@@ -413,6 +413,10 @@ window.__ModuleLoader__.load({
           className: 'xhs-lightbox',
           role: 'dialog',
           'aria-modal': 'true',
+          // macOS Desktop (Harness 0.2.2+) only excludes explicitly declared
+          // regions from the draggable window chrome, so a fixed overlay that
+          // covers the header must opt its viewport out of window dragging.
+          'data-window-drag-exclude': true,
           onClick: () => setPreview(''),
         },
           h('img', { src: `${MEDIA_PATH}${encodeURIComponent(preview)}`, alt: '' }),

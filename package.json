@@ -1,6 +1,6 @@
 {
   "name": "dsh-livephoto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "Download every image of a Xiaohongshu note, turning Live Photo images into real Apple Live Photo pairs that sync to the iPhone through iCloud.",
